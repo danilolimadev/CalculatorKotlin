@@ -1,0 +1,1 @@
+Aplicativo desenvolvido em Kotlin que simula uma calculadora com operações básicas como adição, subtração, multiplicação e divisão
